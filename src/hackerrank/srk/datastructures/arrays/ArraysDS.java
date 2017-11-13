@@ -2,7 +2,7 @@ package hackerrank.srk.datastructures.arrays;
 
 import java.util.Scanner;
 
-public class Arrays2D {
+public class ArraysDS {
 
 	public static void main(String[] args) {
 		/*
