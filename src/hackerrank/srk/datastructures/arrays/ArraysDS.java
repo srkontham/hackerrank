@@ -9,6 +9,7 @@ public class ArraysDS {
 		 * Enter your code here. Read input from STDIN. Print output to STDOUT.
 		 */
 		Scanner scan = new Scanner(System.in);
+		System.out.println("Enter a number: ");
 		int n = scan.nextInt();
 		int[] arr = new int[n];
 		for (int i = 0; i < n; i++) {
