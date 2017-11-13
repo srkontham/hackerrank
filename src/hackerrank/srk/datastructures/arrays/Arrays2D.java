@@ -6,8 +6,7 @@ public class Arrays2D {
 
 	public static void main(String[] args) {
 		/*
-		 * Enter your code here. Read input from STDIN. Print output to STDOUT. Your
-		 * class should be named Solution.
+		 * Enter your code here. Read input from STDIN. Print output to STDOUT.
 		 */
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
@@ -15,7 +14,10 @@ public class Arrays2D {
 		for (int i = 0; i < n; i++) {
 			arr[i] = scan.nextInt();
 		}
-
+		
+		/*
+		 * Printing the array elements in reverse order.
+		 */
 		for (int i = n - 1; i >= 0; i--) {
 			System.out.print(arr[i] + " ");
 		}
