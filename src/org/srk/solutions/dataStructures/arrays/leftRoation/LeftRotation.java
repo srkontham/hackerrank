@@ -1,4 +1,4 @@
-package org.srk.solutions.datastructures.arrays.leftRoation;
+package org.srk.solutions.dataStructures.arrays.leftRoation;
 
 import java.util.Scanner;
 
