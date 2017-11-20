@@ -1,6 +1,7 @@
 package org.srk.solutions.java.oops.overriding;
 
 public class OverridingTest2 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		MotorCycle M = new MotorCycle();
 	}
