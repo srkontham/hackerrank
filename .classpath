@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry excluding="org/srk/solutions/algorithms/sorting/bigSort/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src.org.srk.solutions.statistics10days"/>
+	<classpathentry kind="src" path="src.org.srk.solutions.algorithms"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
