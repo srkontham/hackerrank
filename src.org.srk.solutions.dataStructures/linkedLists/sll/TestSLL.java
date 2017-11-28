@@ -1,4 +1,4 @@
-package org.srk.solutions.dataStructures.linkedLists.sll;
+package linkedLists.sll;
 
 import java.util.Scanner;
 

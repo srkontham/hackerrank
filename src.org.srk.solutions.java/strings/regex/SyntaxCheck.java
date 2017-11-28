@@ -1,4 +1,4 @@
-package org.srk.solutions.java.strings.regex;
+package strings.regex;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;

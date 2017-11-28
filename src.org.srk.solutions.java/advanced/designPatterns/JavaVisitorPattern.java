@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.designPatterns;
+package advanced.designPatterns;
 
 import java.util.ArrayList;
 import java.util.HashMap;

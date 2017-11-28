@@ -1,4 +1,4 @@
-package org.srk.solutions.java.datastructures.javaCollections;
+package datastructures.javaCollections;
 
 import java.util.HashMap;
 import java.util.Map;

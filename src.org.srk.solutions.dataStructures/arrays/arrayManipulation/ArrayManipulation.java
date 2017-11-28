@@ -1,4 +1,4 @@
-package org.srk.solutions.dataStructures.arrays.arrayManipulation;
+package arrays.arrayManipulation;
 
 import java.util.Scanner;
 

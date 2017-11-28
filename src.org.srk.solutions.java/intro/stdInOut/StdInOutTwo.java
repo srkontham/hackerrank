@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.stdInOut;
+package intro.stdInOut;
 
 import java.util.Scanner;
 

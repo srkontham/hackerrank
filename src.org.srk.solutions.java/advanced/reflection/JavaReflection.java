@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.reflection;
+package advanced.reflection;
 
 import java.lang.reflect.Member;
 import java.lang.reflect.Method;

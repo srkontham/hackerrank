@@ -1,4 +1,4 @@
-package org.srk.solutions.java.oops.keywords;
+package oops.keywords;
 
 import java.util.ArrayList;
 import java.util.Scanner;

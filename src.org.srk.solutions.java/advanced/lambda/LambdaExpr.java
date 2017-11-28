@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.lambda;
+package advanced.lambda;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package org.srk.solutions.dataStructures.trees.huffman;
+package trees.huffman;
 
 class Node {
 	public int frequency; // the frequency of this tree

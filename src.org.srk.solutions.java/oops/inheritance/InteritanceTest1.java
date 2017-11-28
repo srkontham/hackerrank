@@ -1,4 +1,4 @@
-package org.srk.solutions.java.oops.inheritance;
+package oops.inheritance;
 
 public class InteritanceTest1 {
 

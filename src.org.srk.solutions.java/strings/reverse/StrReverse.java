@@ -1,4 +1,4 @@
-package org.srk.solutions.java.strings.reverse;
+package strings.reverse;
 
 import java.util.Scanner;
 

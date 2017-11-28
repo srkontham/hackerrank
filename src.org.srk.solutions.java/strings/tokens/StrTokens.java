@@ -1,4 +1,4 @@
-package org.srk.solutions.java.strings.tokens;
+package strings.tokens;
 
 import java.util.Scanner;
 

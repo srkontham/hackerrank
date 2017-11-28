@@ -1,4 +1,4 @@
-package org.srk.solutions.java.strings.intro;
+package strings.intro;
 
 import java.util.Scanner;
 

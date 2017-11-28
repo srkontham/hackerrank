@@ -1,4 +1,4 @@
-package org.srk.solutions.java.datastructures.arrays;
+package datastructures.arrays;
 
 import java.util.Scanner;
 

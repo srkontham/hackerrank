@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.designPatterns;
+package advanced.designPatterns;
 
 import java.security.Permission;
 import java.util.Scanner;

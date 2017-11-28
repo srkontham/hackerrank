@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.hashing;
+package advanced.hashing;
 
 import java.util.Scanner;
 import java.security.MessageDigest;

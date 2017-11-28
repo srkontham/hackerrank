@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.currency;
+package intro.currency;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;

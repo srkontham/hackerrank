@@ -1,4 +1,4 @@
-package org.srk.solutions.java.exceptions;
+package exceptions;
 
 import java.util.Scanner;
 

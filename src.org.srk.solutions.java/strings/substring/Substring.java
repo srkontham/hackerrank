@@ -1,4 +1,4 @@
-package org.srk.solutions.java.strings.substring;
+package strings.substring;
 
 import java.util.Scanner;
 

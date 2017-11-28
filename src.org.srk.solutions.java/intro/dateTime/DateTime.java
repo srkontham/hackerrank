@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.dateTime;
+package intro.dateTime;
 
 import java.util.Calendar;
 import java.util.Locale;

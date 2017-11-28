@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.primeChecker;
+package advanced.primeChecker;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

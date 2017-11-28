@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.files;
+package intro.files;
 
 import java.util.Scanner;
 

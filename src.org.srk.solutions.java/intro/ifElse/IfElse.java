@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.ifElse;
+package intro.ifElse;
 
 import java.util.Scanner;
 

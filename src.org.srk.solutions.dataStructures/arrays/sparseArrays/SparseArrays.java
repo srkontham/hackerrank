@@ -1,4 +1,4 @@
-package org.srk.solutions.dataStructures.arrays.sparseArrays;
+package arrays.sparseArrays;
 
 import java.util.Scanner;
 

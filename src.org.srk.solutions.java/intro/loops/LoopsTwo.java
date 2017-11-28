@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.loops;
+package intro.loops;
 
 import java.util.Scanner;
 

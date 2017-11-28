@@ -1,4 +1,4 @@
-package org.srk.solutions.java.oops.iterator;
+package oops.iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

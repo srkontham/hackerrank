@@ -1,4 +1,4 @@
-package org.srk.solutions.java.bigNumber;
+package bigNumber;
 
 import java.math.BigInteger;
 import java.util.Scanner;

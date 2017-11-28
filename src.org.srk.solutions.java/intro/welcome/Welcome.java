@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.welcome;
+package intro.welcome;
 
 public class Welcome {
 

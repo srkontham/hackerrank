@@ -1,4 +1,4 @@
-package org.srk.solutions.java.strings.anagrams;
+package strings.anagrams;
 
 import java.util.Arrays;
 import java.util.Scanner;

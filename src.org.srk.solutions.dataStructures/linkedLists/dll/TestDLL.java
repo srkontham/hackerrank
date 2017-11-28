@@ -1,8 +1,6 @@
-package org.srk.solutions.dataStructures.linkedLists.dll;
+package linkedLists.dll;
 
 import java.util.Scanner;
-
-import org.srk.solutions.dataStructures.linkedLists.dll.Node;
 
 public class TestDLL {
 	public static void main(String args[]) {

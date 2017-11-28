@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.int2String;
+package intro.int2String;
 
 import java.security.Permission;
 import java.util.Scanner;

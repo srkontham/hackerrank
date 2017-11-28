@@ -1,4 +1,4 @@
-package org.srk.solutions.java.oops.interfaces;
+package oops.interfaces;
 
 import java.util.Scanner;
 

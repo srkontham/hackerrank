@@ -1,4 +1,4 @@
-package org.srk.solutions.java.oops.overriding;
+package oops.overriding;
 
 public class OverridingTest2 {
 	@SuppressWarnings("unused")

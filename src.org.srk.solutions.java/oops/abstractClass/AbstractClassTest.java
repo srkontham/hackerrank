@@ -1,4 +1,4 @@
-package org.srk.solutions.java.oops.abstractClass;
+package oops.abstractClass;
 
 import java.util.Scanner;
 

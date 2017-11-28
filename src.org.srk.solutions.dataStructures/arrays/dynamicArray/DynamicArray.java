@@ -1,4 +1,4 @@
-package org.srk.solutions.dataStructures.arrays.dynamicArray;
+package arrays.dynamicArray;
 
 import java.util.ArrayList;
 import java.util.List;

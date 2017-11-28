@@ -1,4 +1,4 @@
-package org.srk.solutions.java.oops.overriding;
+package oops.overriding;
 
 public class OverridingTest {
 	public static void main(String[] args) {

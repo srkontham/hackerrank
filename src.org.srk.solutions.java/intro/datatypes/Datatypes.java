@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.datatypes;
+package intro.datatypes;
 
 import java.util.Scanner;
 

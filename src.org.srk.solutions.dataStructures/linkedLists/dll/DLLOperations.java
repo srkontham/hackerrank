@@ -1,6 +1,6 @@
-package org.srk.solutions.dataStructures.linkedLists.dll;
+package linkedLists.dll;
 
-import org.srk.solutions.dataStructures.linkedLists.dll.Node;
+import linkedLists.dll.Node;
 
 public class DLLOperations {
 

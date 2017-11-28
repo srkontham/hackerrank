@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.canAccess;
+package advanced.canAccess;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

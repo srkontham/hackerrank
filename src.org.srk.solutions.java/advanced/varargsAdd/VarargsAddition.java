@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.varargsAdd;
+package advanced.varargsAdd;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

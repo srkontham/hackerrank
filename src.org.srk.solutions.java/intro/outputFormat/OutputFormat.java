@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.outputFormat;
+package intro.outputFormat;
 
 import java.util.Scanner;
 

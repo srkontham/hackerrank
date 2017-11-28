@@ -1,4 +1,4 @@
-package org.srk.solutions.java.intro.staticBlock;
+package intro.staticBlock;
 
 import java.util.Scanner;
 

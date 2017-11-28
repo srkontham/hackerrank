@@ -1,4 +1,4 @@
-package org.srk.solutions.dataStructures.trees.binaryTree.swap;
+package trees.binaryTree.swap;
 
 import java.util.LinkedList;
 import java.util.Queue;

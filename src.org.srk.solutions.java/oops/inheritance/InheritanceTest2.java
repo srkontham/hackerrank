@@ -1,4 +1,4 @@
-package org.srk.solutions.java.oops.inheritance;
+package oops.inheritance;
 
 public class InheritanceTest2 {
 	public static void main(String[] args) {

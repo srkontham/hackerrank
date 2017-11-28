@@ -1,4 +1,4 @@
-package org.srk.solutions.java.advanced.covariant;
+package advanced.covariant;
 
 import java.util.Scanner;
 
